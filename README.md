@@ -1,5 +1,5 @@
 # Demo
 First repo
 <br>
-by user(Taish Thakur)
+by user(Tanish Thakur) 
 
