@@ -29,7 +29,7 @@
 - Update all the packages.
 - Clone your application's code repository onto the EC2 instance:
     
-    git remote -v
+    
     
 
 **Step 3: Install Docker and Run the App Using a Container:**
