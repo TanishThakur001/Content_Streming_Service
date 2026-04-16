@@ -89,7 +89,7 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix.
         
         publicIP:9000 (by default username & password is admin)
         
-        To install Trivy:
+        To install Trivy :
         ```
         sudo apt-get install wget apt-transport-https gnupg lsb-release
         wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | sudo apt-key add -
