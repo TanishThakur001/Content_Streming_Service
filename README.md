@@ -80,7 +80,7 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix.
         
         sonarqube
         ```
-        docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
+        docker run  -d --name sonar -p 9000:9000 sonarqube:lts-community
         ```
         
         
